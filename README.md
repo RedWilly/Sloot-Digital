@@ -22,3 +22,5 @@ Similarly, you can run the decode.py script by using the following command:
 >python decode.py input_file output_file
 
 This will run the decode.py script and decompress the input_file, saving the decompressed file to output_file.
+
+###If you will like to contribute to this repo be my guest 
